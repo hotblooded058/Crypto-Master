@@ -12,11 +12,10 @@ You will be able to search currencies and have it display on the browser. Also, 
 
 ## Made with ♥ by Sachin
 
-![Screenshot (18)](https://github.com/hotblooded058/Crypto-Master/assets/88645562/8ac13ba6-4ae2-4b4e-8471-1e499cf20dbd)
+![Screenshot (18)](https://github.com/hotblooded058/Crypto-Master/assets/88645562/733f0960-8490-4dd4-99f2-bc6bdad19f9f)
 
-![Screenshot (19)](https://github.com/hotblooded058/Crypto-Master/assets/88645562/289c6d16-9a93-4622-865f-830f732c7436)
+![Screenshot (19)](https://github.com/hotblooded058/Crypto-Master/assets/88645562/703093ae-6dc8-4ec6-b00b-4cafa69156b9)
 
-![Screenshot (20)](https://github.com/hotblooded058/Crypto-Master/assets/88645562/eb17b9fe-f4db-4e55-acdf-79042122c6cb)
+![Screenshot (20) - Copy](https://github.com/hotblooded058/Crypto-Master/assets/88645562/1d68d205-1921-4415-a7b2-a3cc314ae67e)
 
-![Screenshot (20)](https://github.com/hotblooded058/Crypto-Master/assets/88645562/b3a73bd6-0a82-491d-85f4-fe7984d04647)
-
+![Screenshot (21)](https://github.com/hotblooded058/Crypto-Master/assets/88645562/a217e820-2889-4179-8a43-39c7d5a37836)
